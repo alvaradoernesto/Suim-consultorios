@@ -19,7 +19,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              React Landing Page
+              SUIM
             </a>{" "}
           </div>
 
@@ -30,27 +30,22 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                  Que hacemos
                 </a>
               </li>
               <li>
                 <a href="#about" className="page-scroll">
-                  About
+                  Nosotros
                 </a>
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Services
+                  Servicios
                 </a>
               </li>
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
-                </a>
-              </li>
-              <li>
-                <a href="#testimonials" className="page-scroll">
-                  Testimonials
+                  Medicos
                 </a>
               </li>
               <li>
@@ -60,7 +55,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#contact" className="page-scroll">
-                  Contact
+                  Contacto
                 </a>
               </li>
             </ul>
