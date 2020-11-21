@@ -30,16 +30,6 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Que hacemos
-                </a>
-              </li>
-              <li>
-                <a href="#about" className="page-scroll">
-                  Nosotros
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="page-scroll">
                   Servicios
                 </a>
               </li>
